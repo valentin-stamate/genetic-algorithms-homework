@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/26282709/heuristic-algorithm-for-finding-minimal-value-from-function/26283364
+https://en.wikipedia.org/wiki/Simulated_annealing
+https://www.youtube.com/watch?v=S9vs05eAGN0&ab_channel=EricSchirtzinger
+
+http://www.geatbx.com/docu/fcnindex-01.html#P89_3085
+http://www.geatbx.com/docu/fcnindex-01.html#P150_6749
+Notitele din cursul 2
+
+https://www.geeksforgeeks.org/function-pointer-in-c/
+
+https://stackoverflow.com/questions/59565481/create-a-vector-from-a-txt-data-file-in-r
+
+
