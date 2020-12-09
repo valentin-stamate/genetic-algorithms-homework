@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/39102028/how-to-return-vector-of-pointers-and-ownership-c11
+https://stackoverflow.com/questions/11134497/constant-sized-vector
+Seminar 5 notes
+
+https://stackoverflow.com/questions/1380463/sorting-a-vector-of-custom-objects
+https://profs.info.uaic.ro/~eugennc/teaching/ga/
+https://www.youtube.com/watch?v=9zfeTw-uFCw&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV&ab_channel=TheCodingTrain
+
+

@@ -3,3 +3,5 @@
 *.RData
 *.Rproj.user
 *.Rproj
+*.exe
+*.Rhistory
