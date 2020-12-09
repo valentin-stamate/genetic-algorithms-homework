@@ -1,0 +1,12 @@
+Benefits Of Coding Gray
+https://stackoverflow.com/questions/41245917/what-are-the-benefits-of-gray-code-in-evolutionary-computation
+
+Converting Binary To Gray And Viceversa
+https://www.youtube.com/watch?v=cbmh1DPPQyI
+
+Second Homework Results
+
+Gray To Binary
+https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/
+
+
