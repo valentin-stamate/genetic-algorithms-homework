@@ -23,6 +23,9 @@ Hard deadline: lab 6
 Homework T2: Solve Homework T1 using a Genetic Algorithm.
 Soft deadline: lab 9
 
+## Homework T2
+Solve Homework T1 using a Genetic Algorithm.
+
 ## Homework T2'
 Optimise the Genetic Algorithm used for Homework T2 by adding adaptive parameters, adaptive operators, Gray coding, etc. Write a short report, detailing and explaining the performance differences.
 Hard deadline: lab 10
